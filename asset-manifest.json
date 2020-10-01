@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/air-quality/static/css/main.ca007c45.chunk.css",
+    "main.js": "/air-quality/static/js/main.90da7af6.chunk.js",
+    "main.js.map": "/air-quality/static/js/main.90da7af6.chunk.js.map",
+    "runtime-main.js": "/air-quality/static/js/runtime-main.2c0b8cd0.js",
+    "runtime-main.js.map": "/air-quality/static/js/runtime-main.2c0b8cd0.js.map",
+    "static/css/2.e0686c58.chunk.css": "/air-quality/static/css/2.e0686c58.chunk.css",
+    "static/js/2.8e061a87.chunk.js": "/air-quality/static/js/2.8e061a87.chunk.js",
+    "static/js/2.8e061a87.chunk.js.map": "/air-quality/static/js/2.8e061a87.chunk.js.map",
+    "index.html": "/air-quality/index.html",
+    "precache-manifest.371952be529a3ab2c1b8f9d98141d6ed.js": "/air-quality/precache-manifest.371952be529a3ab2c1b8f9d98141d6ed.js",
+    "service-worker.js": "/air-quality/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/air-quality/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.ca007c45.chunk.css.map": "/air-quality/static/css/main.ca007c45.chunk.css.map",
+    "static/js/2.8e061a87.chunk.js.LICENSE.txt": "/air-quality/static/js/2.8e061a87.chunk.js.LICENSE.txt",
+    "static/media/01.jpg": "/air-quality/static/media/01.5ec44869.jpg",
+    "static/media/02.jpg": "/air-quality/static/media/02.65643b05.jpg",
+    "static/media/03.jpg": "/air-quality/static/media/03.f8f67844.jpg",
+    "static/media/04.jpg": "/air-quality/static/media/04.fb084e1e.jpg",
+    "static/media/05.jpg": "/air-quality/static/media/05.43f9dac6.jpg",
+    "static/media/06.jpg": "/air-quality/static/media/06.a8b6caee.jpg",
+    "static/media/GC_logo.svg": "/air-quality/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/air-quality/static/media/ITN_logo.2f311a05.svg",
+    "static/media/HeroBlock.scss": "/air-quality/static/media/hero-bg.5d86912d.jpg",
+    "static/media/shid_emozhl_logo.svg": "/air-quality/static/media/shid_emozhl_logo.341a487c.svg",
+    "static/media/slide-1.jpg": "/air-quality/static/media/slide-1.7e1db0da.jpg",
+    "static/media/slide-2.jpg": "/air-quality/static/media/slide-2.12a25e24.jpg",
+    "static/media/slide-3.jpg": "/air-quality/static/media/slide-3.638ec227.jpg",
+    "static/media/slide-4.jpg": "/air-quality/static/media/slide-4.8a21e8b7.jpg",
+    "static/media/slide-5.jpg": "/air-quality/static/media/slide-5.bb9f49bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c0b8cd0.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.8e061a87.chunk.js",
+    "static/css/main.ca007c45.chunk.css",
+    "static/js/main.90da7af6.chunk.js"
+  ]
+}
